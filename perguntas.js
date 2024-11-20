@@ -24,6 +24,6 @@ criaCartao(
 criaCartao(
     'Imagem',
     'O que arranha o sofá?',
-    'It seems there is still an issue with generating the image. Would you like me to try again or adjust the prompt further?'
+    'Um gato fofinho de pelos pretos'
 )
 
