@@ -17,7 +17,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Matemática',
+    'Qual é a raíz quadrada de 49?',
+    'A raíz quadrada de 49 é 7'
 )
+criaCartao(
+    'Imagem',
+    'O que arranha o sofá?',
+    'It seems there is still an issue with generating the image. Would you like me to try again or adjust the prompt further?'
+)
+
