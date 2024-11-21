@@ -22,7 +22,7 @@ criaCartao(
     'A raíz quadrada de 49 é 7'
 )
 criaCartao(
-    'Imagem',
+    'Animal',
     'O que arranha o sofá?',
     'Um gato fofinho de pelos pretos'
 )
